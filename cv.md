@@ -18,7 +18,6 @@ I made small app. Its can show you current temperature in your location. Also yo
 https://github.com/Uladzimir-KH/weather_app
 
 ## Education
-
  - BSUIR Radioengineering and Electronics
 
  - SoloLearn Java course - SoloLearn

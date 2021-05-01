@@ -19,23 +19,18 @@ https://github.com/Uladzimir-KH/weather_app
 
 ## Education
  - BSUIR Radioengineering and Electronics
-
  - SoloLearn Java course - SoloLearn
     - Issued Jan 2019
     - Credential ID #1068-6654873
-
  - SoloLearn SQL course - SoloLearn
     - Issued Jan 2021
     - Credential ID #1060-6654873
-
  - SoloLearn HTML Course - SoloLearn
     - Issued Jan 2021
     - Credential ID #1014-6654873
-    
  - SoloLearn CSS course - SoloLearn
     - Issued Jan 2021
     - Credential ID #1023-6654873
-
  - The Complete Flutter Development Bootcamp Using Dart - The App Brewery
     - Issued Feb 2021
     - Credential ID cert_cwlz5hwc
@@ -44,11 +39,9 @@ https://github.com/Uladzimir-KH/weather_app
  - Sales Manager
     - Beltelecom
     - May 2017 – Jul 2018
-
  - Marketer
     - ARVAS
     - Sep 2018 – Jan 2020
-    
  - Monetization Manager
     - Easybrain
     - Mar 2020 – Apr 2020 
